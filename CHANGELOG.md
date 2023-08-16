@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.1.0...v1.2.0) (2023-08-16)
+
+
+### Features
+
+* **schema:** Add parsed_documents table ([78bc9c0](https://github.com/technologiestiftung/ki-anfragen-supabase/commit/78bc9c0d5320e44a1da0cfff894b8d30ae95b3b6))
+* **schema:** match_parsed_dokument_sections func ([27e5b32](https://github.com/technologiestiftung/ki-anfragen-supabase/commit/27e5b32b16dc8664de37a3a9fee2329ee3c0fb40))
+
 # [1.1.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.0.0...v1.1.0) (2023-08-15)
 
 
