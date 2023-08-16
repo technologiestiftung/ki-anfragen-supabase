@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.2.0...v1.2.1) (2023-08-16)
+
+
+### Bug Fixes
+
+* match_parsed_dokument_sections function ([b53a1b6](https://github.com/technologiestiftung/ki-anfragen-supabase/commit/b53a1b6239b9a812f89e065ee858c5471531524c))
+
 # [1.2.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.1.0...v1.2.0) (2023-08-16)
 
 
