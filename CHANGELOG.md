@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.3.0...v1.4.0) (2023-08-22)
+
+
+### Features
+
+* create parsed_document_sections_large table ([0db93bc](https://github.com/technologiestiftung/ki-anfragen-supabase/commit/0db93bcb65ac447bcaa15e729d514774acdacbcf))
+
 # [1.3.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.2.2...v1.3.0) (2023-08-22)
 
 
