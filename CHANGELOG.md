@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.2.2...v1.3.0) (2023-08-22)
+
+
+### Features
+
+* create metadata table ([b9f18d7](https://github.com/technologiestiftung/ki-anfragen-supabase/commit/b9f18d71f6306826e053d6020564741f4e67f94c))
+
 ## [1.2.2](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.2.1...v1.2.2) (2023-08-16)
 
 
