@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.5.0...v1.6.0) (2023-08-23)
+
+
+### Features
+
+* **sections large:** Add match func large ([63ec468](https://github.com/technologiestiftung/ki-anfragen-supabase/commit/63ec4685630532d49a2a6af9a25b4feb9e895d43))
+
 # [1.5.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.4.0...v1.5.0) (2023-08-23)
 
 
