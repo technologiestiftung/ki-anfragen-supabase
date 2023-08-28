@@ -33,3 +33,10 @@ BEGIN
 			LIMIT match_count;
 END;
 $function$
+
+-- EXAMPLE for creating index on the "embeddings" column
+-- Attention: Creating index only makes sense after the table is populated with data
+-- Parameters according to https://github.com/pgvector/pgvector 
+-- CREATE INDEX ON parsed_document_sections_large_clone USING ivfflat (embedding vector_l2_ops) WITH (lists = 48);
+-- CREATE INDEX ON parsed_document_sections_large_clone USING ivfflat (embedding vector_ip_ops) WITH (lists = 48);
+-- CREATE INDEX ON parsed_document_sections_large_clone USING ivfflat (embedding vector_cosine_ops) WITH (lists = 48);
