@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.6.0...v1.7.0) (2023-08-28)
+
+
+### Features
+
+* add pages column to parsed_document_sections and parsed_document_sections_large ([151e4b4](https://github.com/technologiestiftung/ki-anfragen-supabase/commit/151e4b4d23eff2f272470ec881d6ec704382741e))
+
 # [1.6.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.5.0...v1.6.0) (2023-08-23)
 
 
