@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.7.0...v1.8.0) (2023-08-28)
+
+
+### Features
+
+* **rls:** Add Row Level Security to all tables ([7174eb2](https://github.com/technologiestiftung/ki-anfragen-supabase/commit/7174eb258277d501b99ff9706aae50a26e783efd))
+
 # [1.7.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.6.0...v1.7.0) (2023-08-28)
 
 
