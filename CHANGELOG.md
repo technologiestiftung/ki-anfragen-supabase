@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.8.0...v1.8.1) (2023-08-29)
+
+
+### Bug Fixes
+
+* set num_probes dynamically ([fa7d174](https://github.com/technologiestiftung/ki-anfragen-supabase/commit/fa7d174bf3fcfd90ff4fc46944631bbc55ca75b7))
+
 # [1.8.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.7.0...v1.8.0) (2023-08-28)
 
 
