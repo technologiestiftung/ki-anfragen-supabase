@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.8.1...v1.9.0) (2023-08-30)
+
+
+### Features
+
+* on delete cascades on foreign keys ([aea958c](https://github.com/technologiestiftung/ki-anfragen-supabase/commit/aea958c348e98a8838816d70e632d16e2d0896e5))
+
 ## [1.8.1](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.8.0...v1.8.1) (2023-08-29)
 
 
