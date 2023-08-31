@@ -1,3 +1,15 @@
+# [1.10.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.9.0...v1.10.0) (2023-08-31)
+
+
+### Bug Fixes
+
+* misleading function name ([0da8a54](https://github.com/technologiestiftung/ki-anfragen-supabase/commit/0da8a5432bc7e15af315a8b1b9b0b040a0b900fb))
+
+
+### Features
+
+* function for finding incomplete and missing embeddings ([6367364](https://github.com/technologiestiftung/ki-anfragen-supabase/commit/6367364946cfffa0a7d3b6319baa0d986efa0560))
+
 # [1.9.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.8.1...v1.9.0) (2023-08-30)
 
 
