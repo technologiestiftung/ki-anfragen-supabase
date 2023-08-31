@@ -1,3 +1,15 @@
+# [1.11.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.10.0...v1.11.0) (2023-08-31)
+
+
+### Bug Fixes
+
+* delete old indices first ([69152f6](https://github.com/technologiestiftung/ki-anfragen-supabase/commit/69152f6472c6bddb98879d0e8aa1c0286395d8b7))
+
+
+### Features
+
+* function for regenerating embedding indices ([9f02b7b](https://github.com/technologiestiftung/ki-anfragen-supabase/commit/9f02b7b08acab1d7c458415174cc302d2f0e77f5))
+
 # [1.10.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.9.0...v1.10.0) (2023-08-31)
 
 
