@@ -21,6 +21,6 @@
 	},
 	"homepage": "https://github.com/technologiestiftung/ki-anfragen-supabase#readme",
 	"devDependencies": {
-		"@technologiestiftung/semantic-release-config": "1.2.3"
+		"@technologiestiftung/semantic-release-config": "1.2.4"
 	}
 }
