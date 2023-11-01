@@ -1,4 +1,4 @@
-CREATE OR REPLACE FUNCTION public.find_parsed_reports_with_incomplete_embeddings(requested_doktyp text)
+CREATE OR REPLACE FUNCTION public.find_parsed_reports_with_incomplete_embeddings()
  RETURNS TABLE(id int, checksum text, meta jsonb, red_number_report_id int)
  LANGUAGE plpgsql
 AS $function$

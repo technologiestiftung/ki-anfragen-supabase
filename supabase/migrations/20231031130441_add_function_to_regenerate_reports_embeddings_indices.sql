@@ -11,16 +11,16 @@ DECLARE
 BEGIN
 	-- Delete old embedding indices first
     FOR index_name IN 
-        SELECT indexname FROM pg_indexes WHERE indexname LIKE '%parsed_red_report_sections_embedding_idx%'
+        SELECT indexname FROM pg_indexes WHERE indexname LIKE '%parsed_red_number_report_sections_embedding_idx%'
     LOOP
         EXECUTE 'DROP INDEX IF EXISTS ' || index_name;
     END LOOP;
 
 	-- Generate new embedding indices
-	SELECT ROUND(COUNT(*) / 1000) INTO numRows FROM parsed_red_report_sections;
-    EXECUTE 'CREATE INDEX ON parsed_red_report_sections USING ivfflat (embedding vector_l2_ops) WITH (lists = ' || numRows || ')';
-	EXECUTE 'CREATE INDEX ON parsed_red_report_sections USING ivfflat (embedding vector_ip_ops) WITH (lists = ' || numRows || ')';
-	EXECUTE 'CREATE INDEX ON parsed_red_report_sections USING ivfflat (embedding vector_cosine_ops) WITH (lists = ' || numRows || ')';
+	SELECT ROUND(COUNT(*) / 1000) INTO numRows FROM parsed_red_number_report_sections;
+    EXECUTE 'CREATE INDEX ON parsed_red_number_report_sections USING ivfflat (embedding vector_l2_ops) WITH (lists = ' || numRows || ')';
+	EXECUTE 'CREATE INDEX ON parsed_red_number_report_sections USING ivfflat (embedding vector_ip_ops) WITH (lists = ' || numRows || ')';
+	EXECUTE 'CREATE INDEX ON parsed_red_number_report_sections USING ivfflat (embedding vector_cosine_ops) WITH (lists = ' || numRows || ')';
 END $$;
 
 END;
