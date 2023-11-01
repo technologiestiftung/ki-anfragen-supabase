@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.11.0...v1.12.0) (2023-11-01)
+
+
+### Features
+
+* tables for "red number reports" ([#21](https://github.com/technologiestiftung/ki-anfragen-supabase/issues/21)) ([0ce2ab9](https://github.com/technologiestiftung/ki-anfragen-supabase/commit/0ce2ab958ef668c795347d39722f496afe7712d9))
+
 # [1.11.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.10.0...v1.11.0) (2023-08-31)
 
 
