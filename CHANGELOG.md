@@ -1,3 +1,10 @@
+# [1.13.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.12.0...v1.13.0) (2023-11-02)
+
+
+### Features
+
+* vecotr search on red number report sections ([bc29288](https://github.com/technologiestiftung/ki-anfragen-supabase/commit/bc29288352bca44008c6f8c65de3ebc80a9cf677))
+
 # [1.12.0](https://github.com/technologiestiftung/ki-anfragen-supabase/compare/v1.11.0...v1.12.0) (2023-11-01)
 
 
