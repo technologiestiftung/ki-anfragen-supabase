@@ -1,7 +1,7 @@
 {
 	"name": "@technologiestiftung/ki-anfragen-supabase",
 	"private": true,
-	"version": "1.11.0",
+	"version": "1.13.0",
 	"description": "Supabase config for the ki-anfrage project",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 0"
@@ -21,6 +21,6 @@
 	},
 	"homepage": "https://github.com/technologiestiftung/ki-anfragen-supabase#readme",
 	"devDependencies": {
-		"@technologiestiftung/semantic-release-config": "1.2.3"
+		"@technologiestiftung/semantic-release-config": "1.2.4"
 	}
 }
